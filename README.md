@@ -6,6 +6,8 @@ The QuizQuestion model includes several fields such as quizName, questionText, n
 The QuizMaker class uses the QuizQuestionDao to retrieve a list of QuizQuestion objects for a specified quiz name and then prompts the user to answer the questions.
 
 **Authors**
+
+
 Sharen Torres - sharentorres
 
 
