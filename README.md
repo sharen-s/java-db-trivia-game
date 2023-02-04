@@ -14,7 +14,3 @@ Sharen Torres - sharentorres
 
 
 Eric Vazquez - v4vazquez
- 
-  
-  
-  
