@@ -1,3 +1,6 @@
+
+
+
 **Trivia Project**
 
 This is a Java project that implements a data access object (DAO) for a QuizQuestion model. The project includes a QuizQuestionDao interface, which defines a method for retrieving a list of QuizQuestion objects for a specified quiz name. Additionally, the project includes an implementation of the QuizQuestionDao interface, called JdbcQuizQuestionDao, which uses a JDBC connection to a PostgreSQL database to retrieve the QuizQuestion objects.
