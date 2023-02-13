@@ -10,6 +10,6 @@ The QuizMaker class uses the QuizQuestionDao to retrieve a list of QuizQuestion 
 **Authors**
 
 
-Sharen Torres - sharentorres
+[Sharen Torres](https://github.com/sharen-s) 
 
-Eric Vazquez - v4vazquez
+[Eric Vazquez](https://github.com/v4vazquez) 
